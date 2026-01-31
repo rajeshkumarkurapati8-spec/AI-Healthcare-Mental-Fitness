@@ -1,0 +1,9 @@
+flask
+nltk
+scikit-learn
+pandas
+numpy
+matplotlib
+openpyxl
+joblib
+torch
